@@ -103,7 +103,9 @@
 -- INSERT INTO comments2(content) VALUES('lolololololololololo');
 -- INSERT INTO comments2(content) VALUES('i like cats and dogs');
 
-UPDATE comments2 SET content='lol it\'s another new new tablrelr' WHERE content='lol it\'s another table new';
+UPDATE comments2 
+SET content='lol it\'s another new new tablrelr' 
+WHERE content='lol it\'s another table new';
 
 
 
